@@ -20,6 +20,9 @@
 *.so.*
 *.dylib
 
+#build
+lib/*
+
 # Executables
 *.exe
 *.out
