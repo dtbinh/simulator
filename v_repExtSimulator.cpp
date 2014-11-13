@@ -15,7 +15,7 @@
 // This file was automatically created for V-REP release V3.1.2 on June 16th 2014
 
 #include "v_repExtSimulator.h"
-#include "v_repLib.h"
+#include "include/v_repLib.h"
 #include <unistd.h>
 #include <iostream>
 

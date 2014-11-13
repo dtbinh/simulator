@@ -1,7 +1,7 @@
 CFLAGS = -I../include -Wall -fPIC
 LDFLAGS = -lpthread -ldl
 
-OBJS = v_repExtSimulator.o ../common/v_repLib.o
+OBJS = v_repExtSimulator.o ./common/v_repLib.o
 
 OS = $(shell uname -s)
 ECHO=@
